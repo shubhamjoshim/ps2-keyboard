@@ -1,0 +1,8 @@
+*.vcd
+*.vvp
+*.out
+sim
+receiver_sim
+keyboard_sim
+decoder_check
+.DS_Store
